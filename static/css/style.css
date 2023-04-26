@@ -210,7 +210,7 @@ li.botoes:hover a {
 
     h1 {
         font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-        font-size: 2em;
+        font-size: 2.3em;
         font-weight: 400;
         text-align: center;
         margin-top: 9em;
@@ -234,6 +234,7 @@ li.botoes:hover a {
         height: 2em;
         border-radius: 10px;
         margin-bottom: 1em;
+        margin-left: -40px;
         display: flex;
         flex-direction: column;
         align-items: center;
